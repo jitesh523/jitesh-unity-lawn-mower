@@ -1,4 +1,4 @@
-# Jitesh's First Unity Project — Autonomous Lawn Mower
+# Jitesh's  Unity Project — Autonomous Lawn Mower
 
 My first Unity project: a simulation of an **autonomous lawn-mower / robot-vacuum** that plans its own route across a grid, avoids obstacles, and drives to a target using the **A\* (A-star) pathfinding algorithm**. The project was built on top of Unity's **2D Platformer Microgame** template, which provides the scene, art, audio, and gameplay framework the experiment lives in.
 
